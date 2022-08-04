@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Tejaswin Shankar breaks heptathlon record",
+      "category": "Sports",
+      "description": "Indian high jumper Tejaswin Shankar, 22, rewrote the national record in his first attempt at heptathlon at the DeLoss Dodds Invitational, in Kansas City. The high jump specialist amassed 5,650 points over two days to erase PJ Vinod’s tally of 5,561."
+    },
+    {
+      "id": "2",
+      "title": "Budget 2021: Bonanza for election-bound states",
+      "category": "Politics",
+      "description": "Poll-bound West Bengal, Assam, Tamil Nadu and Kerala have got a leg-up in terms of proposed infrastructure spending in the budget."
+    },
+    {
+      "id": "3",
+      "title": "Fingers crossed: Dalal Street on the edge",
+      "category": "Business",
+      "description": "Investors on Dalal Street are bracing for a volatile week with the Budget on Monday and an RBI policy meet on Friday. Historical data show that most of the leading indices suffered sharp swings on Budget day as investors reacted to the finance minister’s proposals during the speech."
+    },
+    {
+      "id": "4",
+      "title": "Farmers' protest: A fortress in making in Ghazipur",
+      "category": "Politics",
+      "description": "With parked DTC buses sealing main entry points, multi-layered security arrangements and check points -- both by police and farmers' union volunteers -- Ghazipur, the new focal point of the ongoing farmers' agitation, witnessed heightened restrictions on Monday."
+    }
+  ]
+}
